@@ -19,28 +19,38 @@
 <br>
 
 <h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
+
 <div align=center>
   <h3>Backend</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,hibernate&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" title="Kotlin" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=hibernate&theme=dark" title="Hibernate" alt="Hibernate" />
   
   <h3>Frontend</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,sass&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=sass&theme=dark" title="Sass" alt="Sass" />
   
   <h3>Bases de Datos</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" alt="SQLite" />
   
   <h3>Herramientas</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,androidstudio,idea&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
 </div>
-
 <br>
 
 <div align=center>
