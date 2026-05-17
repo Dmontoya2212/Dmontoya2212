@@ -1,35 +1,42 @@
 <h1 align="center">Hola 👋 soy Diego Montoya / Dmontoya2212 ✨ </h1> 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil-aqui" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Diego Montoya LinkedIn"/></a>
-  <a href="mailto:diegomontoyaou@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="diegomontoyaou@gmail.com" /></a>
-</p>
-
 <br>
 
 <h1 align=center>Sobre mi 😃</h1>
 <div align="center">
-  🎓 Estudiante de Ingeniería en Informática en la UCA
-  💻 Desarrollador Backend enfocado en Java y Spring Boot
-  🚀 Apasionado por crear soluciones escalables y optimización de sistemas
-
-  📫 Contacto: **diegomontoyaou@gmail.com** </div>
+  [cite_start]🎓 <b>Estudiante de Ingeniería en Informática</b> en la Universidad Centroamericana José Simeón Cañas (UCA)[cite: 23, 24, 25].
+  
+  [cite_start]💻 <b>Desarrollador Backend</b> con sólida experiencia en <b>Java y Spring Boot</b>, enfocado en la creación de APIs REST escalables y eficientes[cite: 3, 4, 28].
+  
+  [cite_start]📊 Especialista en <b>Bases de Datos</b>, con manejo de PostgreSQL, SQL Server y MySQL, optimizando la persistencia y el rendimiento de consultas complejas[cite: 4, 12, 29].
+  
+  [cite_start]🚀 Con experiencia práctica en el despliegue de aplicaciones usando <b>Docker</b> y en el desarrollo de proyectos de facturación electrónica y gestión de servicios[cite: 13, 11].
+  
+  [cite_start]📫 Contacto: **diegomontoyaou@gmail.com** [cite: 2]
+</div>
 
 <br>
 
 <h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
 <div align=center>
-  <h3>Lenguajes y Backend</h3>
+  <h3>Backend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,hibernate&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,hibernate&theme=light" />
   </a>
+  
   <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,css,sass&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,sass&theme=light" />
   </a>
-  <h3>Bases de Datos y Tools</h3>
+  
+  <h3>Bases de Datos</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver,docker,postman,figma,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light" />
+  </a>
+  
+  <h3>Herramientas</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,androidstudio,idea&theme=light" />
   </a>
 </div>
 
