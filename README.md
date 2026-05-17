@@ -4,15 +4,16 @@
 
 <h1 align=center>Sobre mi 😃</h1>
 <div align="center">
-  [cite_start]🎓 <b>Estudiante de Ingeniería en Informática</b> en la Universidad Centroamericana José Simeón Cañas (UCA)[cite: 23, 24, 25].
+
+🎓 <b>Estudiante de Ingeniería en Informática</b> en la Universidad Centroamericana José Simeón Cañas (UCA).
   
-  [cite_start]💻 <b>Desarrollador Backend</b> con sólida experiencia en <b>Java y Spring Boot</b>, enfocado en la creación de APIs REST escalables y eficientes[cite: 3, 4, 28].
+💻 <b>Desarrollador Backend</b> con sólida experiencia en <b>Java y Spring Boot</b>, enfocado en la creación de APIs REST escalables y eficientes.
   
-  [cite_start]📊 Especialista en <b>Bases de Datos</b>, con manejo de PostgreSQL, SQL Server y MySQL, optimizando la persistencia y el rendimiento de consultas complejas[cite: 4, 12, 29].
+📊 Especialista en <b>Bases de Datos</b>, con manejo de PostgreSQL, SQL Server y MySQL, optimizando la persistencia y el rendimiento de consultas complejas.
   
-  [cite_start]🚀 Con experiencia práctica en el despliegue de aplicaciones usando <b>Docker</b> y en el desarrollo de proyectos de facturación electrónica y gestión de servicios[cite: 13, 11].
+🚀 Con experiencia práctica en el despliegue de aplicaciones usando <b>Docker</b> y en el desarrollo de proyectos de facturación electrónica y gestión de servicios.
   
-  [cite_start]📫 Contacto: **diegomontoyaou@gmail.com** [cite: 2]
+📫 Contacto: **diegomontoyaou@gmail.com**
 </div>
 
 <br>
