@@ -5,13 +5,13 @@
 <h1 align=center>Sobre mi 😃</h1>
 <div align="center">
 
-🎓 <b>Estudiante de Ingeniería en Informática</b> en la Universidad Centroamericana José Simeón Cañas (UCA).
+🎓 <b>Futuro Ingeniero Informático</b> apasionado por el ecosistema de <b>Java</b> ☕ y el desarrollo web 🌐. 
   
-💻 <b>Desarrollador Backend</b> con sólida experiencia en <b>Java y Spring Boot</b>, enfocado en la creación de APIs REST escalables y eficientes.
+  📋 Mi metodología de trabajo se basa en el <b>orden</b> y la <b>optimización</b> ⚡, asegurando que cada proyecto cumpla con los estándares técnicos y funcionales requeridos. 
+
+  📊 Especialista en <b>Bases de Datos</b>, con manejo de PostgreSQL, SQL Server y MySQL, optimizando la persistencia y el rendimiento de consultas complejas.
   
-📊 Especialista en <b>Bases de Datos</b>, con manejo de PostgreSQL, SQL Server y MySQL, optimizando la persistencia y el rendimiento de consultas complejas.
-  
-🚀 Con experiencia práctica en el despliegue de aplicaciones usando <b>Docker</b> y en el desarrollo de proyectos de facturación electrónica y gestión de servicios.
+  ⚙️ Tengo un interés particular en el <b>aseguramiento de la calidad (QA)</b> ✅ y el <b>backend</b>, buscando siempre que el software no solo funcione, sino que sea <b>escalable</b> 📈 y <b>robusto</b> 💪.
   
 📫 Contacto: **diegomontoyaou@gmail.com**
 </div>
