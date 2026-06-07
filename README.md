@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" title="Kotlin" alt="Kotlin" />
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot" />
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=hibernate&theme=dark" title="Hibernate" alt="Hibernate" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" />
   
   <h3>Frontend</h3>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" />
@@ -54,25 +54,27 @@
 <br>
 
 <div align=center>
-  <h1> Mis estadisticas </h1> 
+  <h1> Mis estadísticas </h1> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
 <br>
 </div>
 
 <div align=center>
-<a href="https://github.com/Dmontoya2212">
-  <img height="180em" width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dmontoya2212&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dmontoya2212&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/Dmontoya2212">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dmontoya2212&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dmontoya2212&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </div>
 
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Dmontoya2212&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-alpha.vercel.app/?username=Dmontoya2212&theme=radical&row=1&column=7" alt="Mis Trofeos" />
+  </a>
 </div>
 
 ------
 [Dmontoya2212](https://github.com/Dmontoya2212)
 
-Última actualización: 16/05/2026
+Última actualización: 06/06/2026
